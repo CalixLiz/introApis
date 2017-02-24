@@ -1,0 +1,25 @@
+
+
+.legislator {
+
+	display: inline-block;
+	padding: 1rem;
+	background: #C5E1A9;
+	margin: .5rem;
+	width: 27%;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3rem;
+}
+
+h4 {
+	font-size: 1rem;
+	text-align: left;
+}
+
+p {
+	font-size: 1rem;
+	text-align: center;
+}
